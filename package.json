@@ -18,6 +18,7 @@
     "make:provider": "osjs-cli make:provider",
     "build": "webpack",
     "watch": "webpack --watch"
+    "start": "node index.js"
   },
   "keywords": [
     "osjs"
